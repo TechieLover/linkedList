@@ -3,4 +3,5 @@
  */
 public class LinkedList {
 int i;
+int k;
 }
